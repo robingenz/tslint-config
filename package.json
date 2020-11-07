@@ -1,6 +1,6 @@
 {
   "name": "@robingenz/tslint-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Robin Genz <mail@robingenz.dev>",
   "description": "Shared TSLint config",
   "main": "index.js",

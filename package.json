@@ -4,6 +4,9 @@
   "author": "Robin Genz <mail@robingenz.dev>",
   "description": "Shared TSLint config",
   "main": "index.js",
+  "scripts": {
+    "release": "standard-version --skip.changelog"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robingenz/tslint-config.git"
@@ -16,5 +19,8 @@
   "homepage": "https://github.com/robingenz/tslint-config",
   "peerDependencies": {
     "tslint": "^6.0.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.0.0"
   }
 }

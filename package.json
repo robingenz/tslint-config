@@ -1,0 +1,20 @@
+{
+  "name": "@robingenz/tslint-config",
+  "version": "0.0.1",
+  "author": "Robin Genz <mail@robingenz.dev>",
+  "description": "Shared TSLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robingenz/tslint-config.git"
+  },
+  "keywords": [],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/robingenz/tslint-config/issues"
+  },
+  "homepage": "https://github.com/robingenz/tslint-config",
+  "peerDependencies": {
+    "tslint": "^6.0.0"
+  }
+}

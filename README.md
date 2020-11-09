@@ -1,5 +1,7 @@
 # @robingenz/tslint-config
 
+[![npm](https://www.npmjs.com/package/@robingenz/tslint-config)](https://img.shields.io/github/package-json/v/robingenz/tslint-config)
+
 ## Installation
 
 Install the config:

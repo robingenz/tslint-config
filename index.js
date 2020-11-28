@@ -58,7 +58,8 @@ module.exports = {
     "no-empty": false,
     "no-inferrable-types": [
       true,
-      "ignore-params"
+      "ignore-params",
+      "ignore-properties"
     ],
     "no-non-null-assertion": true,
     "no-return-await": true,
